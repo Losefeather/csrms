@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/a1111/Desktop/PowerProject/PowerProject/csrms/marqueelibrary/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/a1111/.android/build-cache/ebdc830dd9261f5da5652de20c5e811b62787f8a/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/a1111/Desktop/PowerProject/PowerProject/csrms/marqueelibrary/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/a1111/.android/build-cache/ebdc830dd9261f5da5652de20c5e811b62787f8a/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/a1111/Desktop/PowerProject/PowerProject/csrms/marqueelibrary/build/intermediates/res/merged/androidTest/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/a1111/.android/build-cache/ebdc830dd9261f5da5652de20c5e811b62787f8a/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/a1111/Desktop/PowerProject/PowerProject/csrms/marqueelibrary/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/a1111/.android/build-cache/ebdc830dd9261f5da5652de20c5e811b62787f8a/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/a1111/Desktop/PowerProject/PowerProject/csrms/marqueelibrary/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/a1111/.android/build-cache/ebdc830dd9261f5da5652de20c5e811b62787f8a/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/a1111/Desktop/PowerProject/PowerProject/csrms/marqueelibrary/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/a1111/.android/build-cache/ebdc830dd9261f5da5652de20c5e811b62787f8a/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/a1111/Desktop/PowerProject/PowerProject/csrms/marqueelibrary/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/a1111/.android/build-cache/ebdc830dd9261f5da5652de20c5e811b62787f8a/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/a1111/Desktop/PowerProject/PowerProject/csrms/marqueelibrary/build/intermediates/res/merged/androidTest/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/a1111/.android/build-cache/ebdc830dd9261f5da5652de20c5e811b62787f8a/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/a1111/Desktop/PowerProject/PowerProject/csrms/marqueelibrary/build/intermediates/res/merged/androidTest/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/a1111/.android/build-cache/ebdc830dd9261f5da5652de20c5e811b62787f8a/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/a1111/Desktop/PowerProject/PowerProject/csrms/marqueelibrary/build/intermediates/res/merged/androidTest/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/a1111/.android/build-cache/ebdc830dd9261f5da5652de20c5e811b62787f8a/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

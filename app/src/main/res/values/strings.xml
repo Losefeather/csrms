@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">共享平台</string>
+    <string name="module_home">主页</string>
+    <string name="module_upload">录入</string>
+    <string name="module_map">地图</string>
+    <string name="module_user">用户</string>
+    <string name="module_list">列表</string>
+</resources>

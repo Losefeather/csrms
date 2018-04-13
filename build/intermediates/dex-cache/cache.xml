@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/a1111/Desktop/PowerProject/PowerProject/csrms/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="16380f9149f7190c76211b40d81faaed3579c323">
+        <dex dex="/Users/a1111/Desktop/PowerProject/PowerProject/csrms/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_75387d5e1ff7886cf1cd5ec09e27d241c8b78cc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a1111/Desktop/PowerProject/PowerProject/csrms/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/a1111/Desktop/PowerProject/PowerProject/csrms/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e97f726fb998b76afc3734bd2b39a4b8d17b44e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a1111/Desktop/PowerProject/PowerProject/csrms/app/libs/universal-image-loader-1.9.4-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="40595dbd3e3f1b87b27e914340d0e7dfd2d5b3d3">
+        <dex dex="/Users/a1111/Desktop/PowerProject/PowerProject/csrms/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.4-with-sources_6fa8f9218f95f3a59812886966383689e8e29fa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/a1111/Desktop/PowerProject/PowerProject/csrms/app/libs/AMap3DMap_6.0.1_AMapNavi_6.0.1_AMapSearch_5.7.0_AMapLocation_3.8.0_20180309.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="86a420e466d7ce9f2b3dff3d2e71f6cd623c9c75">
+        <dex dex="/Users/a1111/Desktop/PowerProject/PowerProject/csrms/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap3DMap_6.0.1_AMapNavi_6.0.1_AMapSearch_5.7.0_AMapLocation_3.8.0_20180309_f29103dd5dbe981a1645942bccffd22e45ba8565/classes.dex" />
+    </item>
+
+</items>

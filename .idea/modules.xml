@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WeiXinRecorded/WeiXinRecorded.iml" filepath="$PROJECT_DIR$/WeiXinRecorded/WeiXinRecorded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csrms.iml" filepath="$PROJECT_DIR$/csrms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marqueelibrary/marqueelibrary.iml" filepath="$PROJECT_DIR$/marqueelibrary/marqueelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ninegirdlayout/ninegirdlayout.iml" filepath="$PROJECT_DIR$/ninegirdlayout/ninegirdlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxretrofitlibrary/rxretrofitlibrary.iml" filepath="$PROJECT_DIR$/rxretrofitlibrary/rxretrofitlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchview/searchview.iml" filepath="$PROJECT_DIR$/searchview/searchview.iml" />
+    </modules>
+  </component>
+</project>
