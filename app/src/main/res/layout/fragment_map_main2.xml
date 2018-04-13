@@ -96,5 +96,4 @@
         app:layout_behavior="@string/bottom_sheet_behavior">
 
     </android.support.design.widget.CoordinatorLayout>
-
 </android.support.design.widget.CoordinatorLayout>
